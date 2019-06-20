@@ -14,4 +14,6 @@
 
 7) Отправить свои изменения на сервер в свою копию репозитория (`git push`)
 
-Описание задания: https://github.com/Nordth/istu-2019-webcourses-client/blob/master/Task_1705.md
+# Задания:
+1) [Применение современного JS](https://github.com/Nordth/istu-2019-webcourses-client/blob/master/Task_1705.md)
+2) [Тестирование + SSR](https://github.com/Nordth/istu-2019-webcourses-client/blob/master/Task_2006.md)
